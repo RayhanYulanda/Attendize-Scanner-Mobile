@@ -10,7 +10,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <p align="center">
- <img src="https://raw.githubusercontent.com/rayhanyulanda/Attendize-Scanner-Mobile/1.jpg" alt="Image factory" width="200">
+ <img src="https://raw.githubusercontent.com/rayhanyulanda/blob/master/Attendize-Scanner-Mobile/1.jpg" alt="Image factory" width="200">
  <img src="https://raw.githubusercontent.com/rayhanyulanda/Attendize-Scanner-Mobile/2.jpg" alt="Image factory" width="200">
  <img src="https://raw.githubusercontent.com/rayhanyulanda/Attendize-Scanner-Mobile/3.jpg" alt="Image factory" width="200">
  <img src="https://raw.githubusercontent.com/rayhanyulanda/Attendize-Scanner-Mobile/4.jpg" alt="Image factory" width="200">
