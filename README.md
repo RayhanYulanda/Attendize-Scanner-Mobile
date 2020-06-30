@@ -22,7 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Rayhan Yulanda
 
-Flutter and React Native Developer. Passionate #Flutter, #Android Developer, #Web Developer, #Entrepreneur, #Freelancer
+Web, Flutter and React Native Developer. Passionate #Flutter, #Android Developer, #Web Developer, #Entrepreneur, #Freelancer
 
 <a href="https://twitter.com/rayhanyulanda"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://linkedin.com/in/rayhanyulanda"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
