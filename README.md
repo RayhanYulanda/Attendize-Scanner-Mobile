@@ -1,12 +1,12 @@
 # Attendize Scanner Mobile
-Attendize is a free & open-source ticket selling and event management platform. So, this app is ticket scanner for attandize using flutter
+Attendize is a free, open-source ticket selling and event management platform. So, this app is ticket scanner for attandize using flutter
 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made by Flutter.
 
-For help getting started with Flutter, view our
+For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 <p align="center">
