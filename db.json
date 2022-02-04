@@ -1,12 +1,11 @@
 {
   "posts": [
     {
-      "success" : true,
       "id": 1,
-      "title": "hello",
+      "title": "hello"
     }
   ],
   "profile": {
-    "name": "Ray"
+    "name": "typicode"
   }
 }
